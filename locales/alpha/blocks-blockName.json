@@ -1,7 +1,7 @@
 {
     "createdBy": "Created by { ayastudio }",
-    "licenses": "Description of pageName page",
-    "changelog": "Keywords of pageName page",
+    "licenses": "Licenses",
+    "changelog": "Change Log",
     "docs": "Documentation",
     "wiki": "Wiki"
 }

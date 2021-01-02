@@ -1,6 +1,6 @@
 {
-    "title": "Title of pageName page",
-    "description": "Description of pageName page",
-    "keywords": "Keywords of pageName page",
+    "metaTitle": "Title of pageName page",
+    "metaDescription": "Description of pageName page",
+    "metaKeywords": "Keywords of pageName page",
     "phraseFirst": "..."
 }
